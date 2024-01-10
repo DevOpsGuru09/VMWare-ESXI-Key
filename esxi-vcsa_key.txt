@@ -1,0 +1,52 @@
+VMware vSphere Hypervisor 8 License		NJ01K-0634J-489P1-0KAKH-38UQ0
+VMware vSphere Hypervisor 7 License		1M0CQ-FCH5Q-J88G0-0V302-30Q0M
+
+
+----------------------------------------------------------
+
+vSphere 8 Enterprise Plus:
+HG00K-03H8K-48929-8K1NP-3LUJ4
+4F40H-4ML1K-M89U0-0C2N4-1AKL4
+
+vCenter 8 Standard :
+4F282-0MLD2-M8869-T89G0-CF240
+0F41K-0MJ4H-M88U1-0C3N0-0A214
+
+
+----------------------------------------------------------------
+vSAN Enterprise Plus;
+JG0RU-8AJEN-M8069-X23X0-330P8
+
+vSphere 7 Enterprise PLus with Add-on for Kubernetes:
+0G0X0-DL29M-489T1-0C3GK-1Z2J6
+
+vCenter Server 7 Standard:
+MA6NU-6RL07-484V8-WA1XP-87ALF
+-------------------------------------------------------------------
+vSphere 8 Enterprise Plus: HG00K-03H8K-48929-8K1NP-3LUJ4 4F40H-4ML1K-M89U0-0C2N4-1AKL4
+
+vCenter 8 Standard : 4F282-0MLD2-M8869-T89G0-CF240 0F41K-0MJ4H-M88U1-0C3N0-0A214
+--------------------------------------------------------------------------
+
+VMware Workstation 17 Individual License
+JA09H-4V15H-M80V8-8A8Z4-2U8N4
+5U692-4J102-488V1-120NP-C3KL0
+1C212-41352-081H8-693E2-AZ2J0
+NA20H-0NK40-480Z8-C9C54-A6020
+
+VMware Workstation 17 Volume License
+MG210-0EK8K-H89Y1-VLAN2-93K20
+HF200-0W05K-089X8-4R1EK-032J0
+5A69H-4A08H-480K1-KU972-932L4
+5Y69H-0J250-H88C8-MJ8Q0-2C2P4
+
+-----------------------------------------------------------------
+vSAN Enterprise Plus;
+JG0RU-8AJEN-M8069-X23X0-330P8
+
+vSphere 7 Enterprise PLus with Add-on for Kubernetes:
+0G0X0-DL29M-489T1-0C3GK-1Z2J6
+
+vCenter Server 7 Standard:
+MA6NU-6RL07-484V8-WA1XP-87ALF
+
